@@ -25,4 +25,8 @@ In src/first-names.json , you will find a list of random first names for males a
 
 ## Usage
 
-If you would like to use this list in your project, navigate to the raw format of the pages, copy the link, and send a GET request to that link. Use whatever tool to parse the JSON that you'd like.
+If you would like to use this list in your project, send a GET request to the following links. Use whatever tool to parse the JSON that you'd like.
+
+First Names: ``` https://raw.githubusercontent.com/ori-bibas/list-of-names/main/src/first-names.json ```
+
+Last Names: ``` https://raw.githubusercontent.com/ori-bibas/list-of-names/main/src/last-names.json ```
