@@ -13,7 +13,7 @@ A list of thousands of first names and last names in JSON.
       "Arthur",
       "Bob",
       "Billy",
-      "Brian
+      "Brian"
 }
 
 ```
