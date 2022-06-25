@@ -14,6 +14,7 @@ A list of thousands of first names and last names in JSON.
       "Bob",
       "Billy",
       "Brian"
+  ]
 }
 
 ```
